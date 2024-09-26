@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/forage-hybrid-table-master/static/js/main.803e7f16.chunk.js",
+    "main.js.map": "/forage-hybrid-table-master/static/js/main.803e7f16.chunk.js.map",
+    "runtime-main.js": "/forage-hybrid-table-master/static/js/runtime-main.b19cba32.js",
+    "runtime-main.js.map": "/forage-hybrid-table-master/static/js/runtime-main.b19cba32.js.map",
+    "static/js/2.6a0be15a.chunk.js": "/forage-hybrid-table-master/static/js/2.6a0be15a.chunk.js",
+    "static/js/2.6a0be15a.chunk.js.map": "/forage-hybrid-table-master/static/js/2.6a0be15a.chunk.js.map",
+    "static/js/3.5063499b.chunk.js": "/forage-hybrid-table-master/static/js/3.5063499b.chunk.js",
+    "static/js/3.5063499b.chunk.js.map": "/forage-hybrid-table-master/static/js/3.5063499b.chunk.js.map",
+    "static/js/4.3c06f3a2.chunk.js": "/forage-hybrid-table-master/static/js/4.3c06f3a2.chunk.js",
+    "static/js/4.3c06f3a2.chunk.js.map": "/forage-hybrid-table-master/static/js/4.3c06f3a2.chunk.js.map",
+    "static/js/5.83304962.chunk.js": "/forage-hybrid-table-master/static/js/5.83304962.chunk.js",
+    "static/js/5.83304962.chunk.js.map": "/forage-hybrid-table-master/static/js/5.83304962.chunk.js.map",
+    "index.html": "/forage-hybrid-table-master/index.html",
+    "static/js/2.6a0be15a.chunk.js.LICENSE.txt": "/forage-hybrid-table-master/static/js/2.6a0be15a.chunk.js.LICENSE.txt",
+    "static/js/3.5063499b.chunk.js.LICENSE.txt": "/forage-hybrid-table-master/static/js/3.5063499b.chunk.js.LICENSE.txt",
+    "static/js/4.3c06f3a2.chunk.js.LICENSE.txt": "/forage-hybrid-table-master/static/js/4.3c06f3a2.chunk.js.LICENSE.txt",
+    "static/js/5.83304962.chunk.js.LICENSE.txt": "/forage-hybrid-table-master/static/js/5.83304962.chunk.js.LICENSE.txt",
+    "static/media/background.08602167.jpg": "/forage-hybrid-table-master/static/media/background.08602167.jpg",
+    "static/media/logo-uf-ifas.4f5deef3.png": "/forage-hybrid-table-master/static/media/logo-uf-ifas.4f5deef3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b19cba32.js",
+    "static/js/2.6a0be15a.chunk.js",
+    "static/js/main.803e7f16.chunk.js"
+  ]
+}
