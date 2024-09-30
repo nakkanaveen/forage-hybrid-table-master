@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/forage-hybrid-table-master/static/js/main.803e7f16.chunk.js",
-    "main.js.map": "/forage-hybrid-table-master/static/js/main.803e7f16.chunk.js.map",
+    "main.js": "/forage-hybrid-table-master/static/js/main.09ad835c.chunk.js",
+    "main.js.map": "/forage-hybrid-table-master/static/js/main.09ad835c.chunk.js.map",
     "runtime-main.js": "/forage-hybrid-table-master/static/js/runtime-main.b19cba32.js",
     "runtime-main.js.map": "/forage-hybrid-table-master/static/js/runtime-main.b19cba32.js.map",
     "static/js/2.6a0be15a.chunk.js": "/forage-hybrid-table-master/static/js/2.6a0be15a.chunk.js",
@@ -23,6 +23,6 @@
   "entrypoints": [
     "static/js/runtime-main.b19cba32.js",
     "static/js/2.6a0be15a.chunk.js",
-    "static/js/main.803e7f16.chunk.js"
+    "static/js/main.09ad835c.chunk.js"
   ]
 }
